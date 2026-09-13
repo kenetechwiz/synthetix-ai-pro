@@ -1,0 +1,6 @@
+{
+  "name": "Synthetix AI Analytics & Operations Platform",
+  "description": "Enterprise AI analytics and autonomous agent operations platform with real-time telemetry, model management, and performance monitoring.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
